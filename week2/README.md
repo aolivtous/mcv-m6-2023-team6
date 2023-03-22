@@ -11,19 +11,7 @@ Background estimation
 Comparison with more complex models
 
 
-### Task 1 and 2
-
-See Task1_Task2.ipynb
-
-&nbsp;
-
-### Task 3 and 4
-
-See Task3_Task4.ipynb
-
-&nbsp;
-
-### Video Generation
+### to execute the tasks, use the main.py 
 
 Arguments:\
 -m --run_mode : Gaussian, AdaptiveGaussian, SOTA\
