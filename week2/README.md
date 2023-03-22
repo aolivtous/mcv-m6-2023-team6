@@ -45,7 +45,7 @@ python main.py -r task_3 -m SOTA -p 0.25 -c gray -e MOG2 -a 0
 
 ```
 
-#### Color modeling
+#### Color modeling 
 
 ```
  python main.py -r task_4 -m Gaussian -p 0.25 -c RGB -a 5
