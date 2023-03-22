@@ -1,13 +1,15 @@
-# Week 1
+# Week 2
 
 ### Goal:
 
-- Learn about the databases to be used: AICityChallenge and KITTI
-- Implement evaluation metrics: Intersection over Union (IoU), Average Precision (AP), Mean Square Error in Non-Occluded
-  areas, Percentage of Erroneous pixels in Non-occluded areas
-- Analyze: Effect of noise additions, IoU vs Time, Optical Flow
+Background estimation
+- Model the background pixels of a video sequence using a simple statistical model to classify the background / foreground :
+    - Single Gaussian per pixel
+    - Adaptive / Non-adaptive
+- The statistical model will be used to preliminarily classify foreground
 
-&nbsp;
+Comparison with more complex models
+
 
 ### Task 1 and 2
 
