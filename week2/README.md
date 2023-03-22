@@ -11,7 +11,7 @@ Background estimation
 Comparison with more complex models
 
 
-### to execute the tasks, use the main.py 
+### To execute the tasks, use the main.py 
 
 Arguments:\
 -m --run_mode : Gaussian, AdaptiveGaussian, SOTA\
